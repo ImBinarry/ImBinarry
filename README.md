@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **sekhsayan0102@proton.me**
+- 📫 How to reach me **sekhsayan0102@gmail.com**
 
 - ⚡ Fun fact **I think I don't exsit**
 
