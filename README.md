@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksayan0&label=Profile%20views&color=0e75b6&style=flat" alt="sksayan0" /> </p>
 
-- 🔭 I’m currently working on [Anixplay](private)
+- 🔭 I’m currently working on nothing(personal learning)
 
 - 🌱 I’m currently learning **Python, Data science and AI**
 
