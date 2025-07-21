@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on nothing(personal learning)
 
-- 🌱 I’m currently learning **Python, Data science and AI**
+- 🌱 I’m currently learning **How to be alive(very important language)**
 
-- 👯 I’m looking to collaborate on **Nothing right now**
+- 👯 I’m looking to collaborate on **Nothing right now (out of reach)**
 
-- 🤝 I’m looking for help with **Nothing right now**
+- 🤝 I’m looking for help with **Nothing right now (I don't know how to talk)**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **(I don't know! this is a premade template)**
 
-- 📫 How to reach me **sekhsayan0102@gmail.com**
+- 📫 How to reach me **sekhsayan0102@gmail.com** or **Discord: k4ito.cc**
 
-- ⚡ Fun fact **I think I don't exsit**
+- ⚡ Fun fact **I think I don't exsit (that's kinda lie)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
