@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sksayan0&show_icons=true&locale=en" alt="sksayan0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sksayan0&" alt="sksayan0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sksayan0&" alt="ImBinarry" /></p>
 
