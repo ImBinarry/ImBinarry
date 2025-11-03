@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **(I don't know! this is a premade template)**
 
-- 📫 How to reach me **sekhsayan0102@gmail.com** or **Discord: k4ito.cc**
+- 📫 How to reach me **Discord: imbinarry**
 
 - ⚡ Fun fact **I think I don't exsit (that's kinda lie)**
 
