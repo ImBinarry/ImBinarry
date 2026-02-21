@@ -1,30 +1,19 @@
-<h3 align="center">Someone who likes to play with internet and data</h3>
+# Hi. I'm just a normal person. 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sksayan0&label=Profile%20views&color=0e75b6&style=flat" alt="sksayan0" /> </p>
+I don't have a massive portfolio of world-changing projects right now. I'm mostly just here to learn anything and everything, run random code, and go down massive research rabbit holes.
 
-- 🔭 I’m currently working on nothing(personal learning)
+Currently window shopping for RAM I can't afford and trying to convince myself my current setup is fine. 
 
-- 🌱 I’m currently learning **How to be alive(very important language)**
+### 🧠 What I'm up to
+* **Reading:** A bit of everything, from long books and web novels to random articles.
+* **Researching:** Whatever completely random topic catches my attention today.
+* **Tinkering:** Surviving the Linux terminal and hoarding knowledge.
 
-- 👯 I’m looking to collaborate on **Nothing right now (out of reach)**
+### 🛠️ Stuff I use
+* **Languages:** Python, Rust
+* **Workspace:** Linux, Zsh, Jupyter
+* **Brain Dump:** Obsidian 
 
-- 🤝 I’m looking for help with **Nothing right now (I don't know how to talk)**
-
-- 💬 Ask me about **(I don't know! this is a premade template)**
-
-- 📫 How to reach me **Discord: imbinarry**
-
-- ⚡ Fun fact **I think I don't exsit (that's kinda lie)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/ImBinarry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k4ito.cc" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImBinarry&show_icons=true&locale=en" alt="ImBinarry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sksayan0&" alt="ImBinarry" /></p>
-
+### 📫 Say hi
+If you want to talk about random research, books, or complain about hardware prices, hit me up.
+* **Discord:** `imbinarry`
